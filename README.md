@@ -10,7 +10,7 @@ Experimental notebooks exploring the use of Large Language Models for translatio
 
 | Notebook | Description |
 |----------|-------------|
-| LLM_TM_Retrieval_Translation_Exp.ipynb | Main experiment pipeline covering retrieval-augmented generation, similarity scoring, and TM match ranking |
+| `LLM_TM_Retrieval_Translation_Exp.ipynb` | Main experiment pipeline covering retrieval-augmented generation, similarity scoring, and TM match ranking |
 
 ## Experiments
 
@@ -20,15 +20,15 @@ Experimental notebooks exploring the use of Large Language Models for translatio
 
 ## Requirements
 
-`ash
+```bash
 pip install jupyter pandas numpy scikit-learn sentence-transformers openai
-`
+```
 
 ## Usage
 
-`ash
+```bash
 jupyter notebook LLM_TM_Retrieval_Translation_Exp.ipynb
-`
+```
 
 ## License
 
