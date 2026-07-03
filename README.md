@@ -1,6 +1,6 @@
 # LLM Translation Memory Retrieval Experiments
 
-[中文](README_ZH.md) | English
+English | [中文](README_ZH.md)
 
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
