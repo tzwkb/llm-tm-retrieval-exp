@@ -33,3 +33,19 @@ pip install jupyter pandas numpy scikit-learn sentence-transformers openai
 ```bash
 jupyter notebook LLM_TM_Retrieval_Translation_Exp.ipynb
 ```
+
+## 对应技术覆盖
+
+### Notebook 内容
+
+`LLM_TM_Retrieval_Translation_Exp.ipynb` 是主要实验入口，用于验证翻译记忆检索、相似度排序和 LLM 上下文复用。
+
+### 实验方向
+
+- 检索增强翻译：从 TM 中找出相似句对作为 LLM 参考。
+- 相似度评分：比较语义相似度和字面相似度对 TM 匹配的影响。
+- Notebook 原型：在进入生产工具前快速验证检索策略。
+
+### 运行方式
+
+安装 Jupyter、数据处理和 embedding 相关依赖后，用 `jupyter notebook` 打开实验文件并逐格执行。
