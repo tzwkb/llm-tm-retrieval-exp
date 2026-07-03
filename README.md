@@ -1,5 +1,44 @@
 # LLM Translation Memory Retrieval Experiments
 
+<!-- bilingual-readme:start -->
+
+## 双语说明 / Bilingual Documentation
+
+> 本节提供整篇 README 的中英双语维护说明；下方保留原始详细说明、命令、路径和配置示例。
+> This section provides bilingual maintenance notes for the full README; the original detailed notes, commands, paths, and configuration examples are preserved below.
+
+### 中文
+
+**概览**：LLM 翻译记忆检索实验仓库，用于探索 TM 检索策略与实验结果。
+
+**主要能力**：
+- 包含 Jupyter/Python 实验。
+- 面向翻译记忆检索效果评估。
+- 用于研究和对比，不是生产服务。
+
+**使用方式**：按下方 notebook 或脚本说明准备数据并运行实验。
+
+**状态**：该仓库仍按当前 README 的说明维护或使用。
+
+**注意事项**：实验结论应结合数据集和参数解释。
+
+### English
+
+**Overview**: Experimental repository for studying LLM translation-memory retrieval strategies and results.
+
+**Key capabilities**:
+- Contains Jupyter/Python experiments.
+- Evaluates translation-memory retrieval behavior.
+- Used for research and comparison, not as a production service.
+
+**Usage**: Prepare data and run notebooks or scripts according to the notes below.
+
+**Status**: This repository is maintained or used according to the current README notes.
+
+**Notes**: Experimental conclusions should be interpreted with the dataset and parameters in mind.
+
+<!-- bilingual-readme:end -->
+
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
