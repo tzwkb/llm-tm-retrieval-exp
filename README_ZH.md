@@ -1,7 +1,8 @@
 # LLM Translation Memory Retrieval Experiments
 
-[English](README.md) | 中文
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+[English](README.md) | 中文
 
 ## 概览
 
